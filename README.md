@@ -35,7 +35,6 @@ Returns an object containing:
 - `tax`
 - `total`
 
-Purpose
-This project is useful for practicing.
+
 
 
